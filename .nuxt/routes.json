@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/bitbong/Desktop/crossfit-daily-check/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_c467c442"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/bitbong/Desktop/crossfit-daily-check/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_51478f17"
+  }
+]

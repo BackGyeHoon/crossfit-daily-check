@@ -103,14 +103,24 @@ export default {
         },
         {
           icon: 'mdi-chart-bubble',
-          title: 'Inspire',
+          title: '오늘의 와드 기록',
+          to: '/inspire'
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: '와드 소요 시간',
+          to: '/inspire'
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: '이전 기록 비교',
           to: '/inspire'
         }
       ],
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'Vuetify.js'
+      title: 'CROSSFIT DAILY CHECK'
     }
   }
 }

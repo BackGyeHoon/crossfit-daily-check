@@ -1,64 +1,34 @@
 <template>
   <v-row justify="center" align="center">
     <v-col cols="12" sm="8" md="6">
-      <v-card class="logo py-4 d-flex justify-center">
-        <NuxtLogo />
-        <VuetifyLogo />
-      </v-card>
       <v-card>
         <v-card-title class="headline">
-          Welcome to the Vuetify + Nuxt.js template
+          CROSSFIT DAILY CHECK에 오신 것을 환영 합니다 !
         </v-card-title>
         <v-card-text>
-          <p>Vuetify is a progressive Material Design component framework for Vue.js. It was designed to empower developers to create amazing applications.</p>
-          <p>
-            For more information on Vuetify, check out the <a
-              href="https://vuetifyjs.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              documentation
-            </a>.
-          </p>
-          <p>
-            If you have questions, please join the official <a
-              href="https://chat.vuetifyjs.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="chat"
-            >
-              discord
-            </a>.
-          </p>
-          <p>
-            Find a bug? Report it on the github <a
-              href="https://github.com/vuetifyjs/vuetify/issues"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="contribute"
-            >
-              issue board
-            </a>.
-          </p>
-          <p>Thank you for developing with Vuetify and I look forward to bringing more exciting features in the future.</p>
+          <p>해당 사이트는 크로스핏을 시작한 크린이가 필요해서 만든 사이트 입니다.</p>
+          <p>1. 오늘의 와드 기록</p>
+          <p>2. 와드 소요 시간</p>
+          <p>3. 이전 기록 비교</p>
+          <p>개발자가 만든 사이트이다보니, UI적으로는 최악입니다. 그래도 최대한 불편하지 않도록 구현하겠습니다 !</p>
           <div class="text-xs-right">
-            <em><small>&mdash; John Leider</small></em>
+            <em><small>&mdash; 제작자 : BackGyehoon</small></em>
           </div>
           <hr class="my-3">
           <a
-            href="https://nuxtjs.org/"
+            href="https://github.com/BackGyeHoon/crossfit-daily-check"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Nuxt Documentation
+            제작자 깃헙: BackGyeHoon
           </a>
           <br>
           <a
-            href="https://github.com/nuxt/nuxt.js"
+            href="http://naver.me/FRD9ZlHQ"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Nuxt GitHub
+            Crossfit Baegot
           </a>
         </v-card-text>
         <v-card-actions>
